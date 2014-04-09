@@ -1,0 +1,10 @@
+-sub: *.bnd
+-buildpath: org.apache.felix.dependencymanager,\
+	osgi.core
+-runbundles: org.apache.felix.dependencymanager,\
+	org.apache.felix.dependencymanager.shell,\
+	org.apache.felix.gogo.runtime,\
+	org.apache.felix.gogo.command,\
+	org.apache.felix.gogo.shell,\
+	osgi.cmpn
+-runfw: org.apache.felix.framework;version='[4.4.0,4.4.0]'

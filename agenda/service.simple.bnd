@@ -1,0 +1,2 @@
+Private-Package: agenda.service.simple
+Bundle-Activator: agenda.service.simple.Activator

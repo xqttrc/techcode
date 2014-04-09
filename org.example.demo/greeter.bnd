@@ -1,0 +1,2 @@
+Private-Package: org.example.demo.user
+Bundle-Activator: org.example.demo.user.Activator

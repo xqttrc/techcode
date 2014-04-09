@@ -1,0 +1,2 @@
+Private-Package: org.example.demo.friendly
+Bundle-Activator: org.example.demo.friendly.Activator
